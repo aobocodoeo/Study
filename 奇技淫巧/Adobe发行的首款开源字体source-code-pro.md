@@ -19,3 +19,7 @@
 2. 在原有的 *Consolas, 'Courier New', monospace* 前添加 **Source Code Pro,** 修改完成如下图:
 
    ![](https://cdn.jsdelivr.net/gh/aobocodoeo/imgbank@master/20210121050830.png)
+
+
+
+### 字体效果展示		![](https://cdn.jsdelivr.net/gh/aobocodoeo/imgbank@master/20210121052446.jpg)
