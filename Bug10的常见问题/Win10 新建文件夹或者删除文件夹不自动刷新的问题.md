@@ -28,7 +28,7 @@ Win+R，调出运行窗口；
 
 ### 图示说明
 
-![](https://cdn.jsdelivr.net/gh/aobocodoeo/imgbank@master/20210125140417.jpg)
+![](https://cdn.jsdelivr.net/gh/aobocodoeo/imgbank@master/20210125144603.jpg)
 
 
 
@@ -39,8 +39,8 @@ Win+R，调出运行窗口；
   ```reg
   Windows Registry Editor Version 5.00
   
-  [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Update\UpdateMode]
-  "DWORD"=hex(2):30,00,00,00
+  [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Update]
+  "UpdateMode"=dword:00000000
   ```
 
 - 修改文件名后缀为`.reg` 双击运行即可
