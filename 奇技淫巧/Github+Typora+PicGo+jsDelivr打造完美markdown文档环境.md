@@ -88,7 +88,7 @@
 
 2. 参考图片中的进行配置:
 
-   ![](https://cdn.jsdelivr.net/gh/aobocodoeo/imgbank@master/2021-01-21_043621.png)
+   ![](https://cdn.jsdelivr.net/gh/aobocodoeo/imgbank@master/20210219122625.jpg)
 
 3. 验证图片上传(查看是否成功)
 
